@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Man Nguyen</h1>
-<h3 align="center">I'm pretty good at self-taught programming.</h3>
+<h3 align="center">I'm a self-taught programmer.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannguyen0107&show_icons=true&locale=en" alt="mannguyen0107" /></p>
 <!-- <h3 align="left">Github trophy:</h3>

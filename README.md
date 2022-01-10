@@ -10,6 +10,7 @@ I usually work on my side projects in my free time. All of them are private righ
 
 #### Connect with me:
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9438040" height="20" width="30" />[Stackoverflow](https://stackoverflow.com/users/9438040)
+![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge&link=https://stackoverflow.com/users/9438040)
+![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&link=https://t.me/bonghuyn&width=100)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mannguyen0107&show_icons=true&locale=en)

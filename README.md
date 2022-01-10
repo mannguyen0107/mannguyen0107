@@ -6,7 +6,7 @@ I usually work on my side projects in my free time. All of them are private righ
 
 #### Opensource projects current working on:
 
-- [GramJS][https://github.com/gram-js/gramjs] is a Telethon client written in JavaScript and TypeScript for Node.js and browsers.
+- [GramJS](https://github.com/gram-js/gramjs) is a Telethon client written in JavaScript and TypeScript for Node.js and browsers.
 
 #### Connect with me:
 
